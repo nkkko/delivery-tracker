@@ -12,6 +12,8 @@ Delivery Tracker can be set up in local development environments and is also rea
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/shlee322/delivery-tracker)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/shlee322/delivery-tracker)
+
 Follow the instructions below for GitHub Codespaces:
 
 1. Click the "Open in GitHub Codespaces" button above to create a new Codespace.
